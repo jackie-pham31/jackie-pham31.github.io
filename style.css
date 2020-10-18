@@ -144,7 +144,7 @@ a{
 
 .jumbotron{
     height: 500px;
-    background-image: url("/home/jackie/HTML & CSS/Images/pexels-karolina-grabowska-4022219.jpg");
+    background-image: url("Images/pexels-karolina-grabowska-4022219.jpg");
     background-size: cover;
 }
 

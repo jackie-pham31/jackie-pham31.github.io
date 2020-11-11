@@ -172,7 +172,7 @@ footer p{
 .cooking-banner{
     height: 500px;
     background-size: cover;
-    background-image: url("/home/jackie/HTML & CSS/Images/pexels-daria-shevtsova-1070880.jpg");
+    background-image: url("Images/pexels-daria-shevtsova-1070880.jpg");
 }
 
 .main-content{
@@ -257,7 +257,7 @@ footer p{
 /*About me */
 
 .about-me-header{
-    background-image: url("/home/jackie/HTML & CSS/Images/pexels-adrianna-calvo-17679.jpg");
+    background-image: url("Images/pexels-adrianna-calvo-17679.jpg");
     height: 500px;
     background-size: cover;
 }
